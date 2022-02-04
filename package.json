@@ -1,0 +1,19 @@
+{
+  "name": "ryxander",
+  "version": "0.0.0",
+  "description": "A playground for creation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryann-r/ryxander.git"
+  },
+  "author": "ryann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryann-r/ryxander/issues"
+  },
+  "homepage": "https://github.com/ryann-r/ryxander#readme"
+}
